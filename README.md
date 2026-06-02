@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-2: Implementation of Exact Inference Method of Bayesian Network</H1>
 
-### Name: 
-### Register Number:
+### Name: Gowtham S
+### Register Number: 2305002008
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
